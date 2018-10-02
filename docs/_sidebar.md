@@ -1,5 +1,5 @@
-   - Header
-      - Indented
-      - Indented
-    - Another header
-      - Indented
+- Header
+ - Indented
+ - Indented
+- Another header
+ - Indented
